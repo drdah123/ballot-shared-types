@@ -1,6 +1,6 @@
 {
   "name": "@abdlarahman/backend-shared-types",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Shared types, models, and utilities for ballot backend modules",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
